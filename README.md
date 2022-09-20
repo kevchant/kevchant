@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi all 👋
+
+- 🔭 I’m currently working on some interesting things relating to DevOps related services and BI & Analytics
+- 💬 Ask me about using GitHub or Azure DevOps for Microsoft Data Platform deployments
+- 💬 You can also ask me about the new GitHub certifications for Azure partners
+- 📫 How to reach me: Either through social media or https://www.kevinrchant.com/contact/
+- 😄 Pronouns: He/Him
 
 <!--
 **kevchant/kevchant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
