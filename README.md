@@ -1,8 +1,9 @@
 ### Hi all 👋
 
-- 🔭 I’m currently working on some interesting things relating to DevOps related services and BI & Analytics
+- 🔭 I’m currently working on services in the Microsoft Intelligent Data Platform such as Microsoft Fabric as well as Developer Technologies
 - 💬 Ask me about using GitHub or Azure DevOps for Microsoft Data Platform deployments
-- 💬 You can also ask me about the new GitHub certifications for Azure partners
+- 💬 You can ask me about Microsoft Intelligent Data Platform such as Microsoft Fabric
+- 💬 You can also ask me about the GitHub certifications for Azure partners
 - 📫 How to reach me: Either through social media or https://www.kevinrchant.com/contact/
 - 😄 Pronouns: He/Him
 
