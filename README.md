@@ -1,6 +1,7 @@
 ### Hi all 👋
 
 - 🔭 I’m currently working on services in the Microsoft Intelligent Data Platform such as Microsoft Fabric as well as Developer Technologies
+- 🔭 Shares various repositories on here that you can use as templates to perform CI/CD for variety of services including SQL Server and Microsoft Fabric
 - 💬 Ask me about using GitHub or Azure DevOps for Microsoft Data Platform deployments
 - 💬 You can ask me about Microsoft Intelligent Data Platform such as Microsoft Fabric
 - 💬 You can also ask me about the GitHub certifications for Azure partners
